@@ -1,5 +1,4 @@
 body {
-    max-width: 800;
     margin: auto;
     text-align: center;
 }
@@ -31,30 +30,104 @@ body {
     font-family: sans-serif;
     font-size: 20px;
     margin: auto;
-    width: 451px;
-    height: 500px;
     display: inline-grid;
-    background-repeat: no-repeat;
-    background-image: url(https://moviewriternyu.files.wordpress.com/2013/05/grimace.jpg);
+    /*background-repeat: no-repeat;
+    background-image: url(https://moviewriternyu.files.wordpress.com/2013/05/grimace.jpg);*/
 }
 .frontPageGrimaceGrid a{
     text-align: center;
     text-decoration: none;
     line-height: 150px;
-    width: 225.5px;
-    height: 166px;
     display: block;
-    color: black;
-}
-.frontPageGrimaceGrid:hover{
-    opacity: 0.3;
+    color: white;
 }
 .frontPageGrimaceGrid a:hover{
     transition: .3s ease-in-out;
     /*-webkit-transition: 200ms;*/
-    font-size: 25px;
+    font-size: 22px;
     font-weight: bold;
-    /*background-image:linear-gradient(
-            rgba(0, 0, 0, 0.15),
-            rgba(0, 0, 0, 0.15));*/
+    background-image:linear-gradient(
+            rgba(0, 0, 0, 0.75),
+            rgba(0, 0, 0, 0.75));
+}
+
+.frontPageGrimaceGrid > .row1{
+    width: auto;
+}
+#Iss1 {
+    float: left;
+    width: 25%;
+    background-image: url(http://vignette3.wikia.nocookie.net/pbskidsbookwrombunch/images/2/23/PlayPlace_inside.jpg/revision/latest?cb=20130520005035);
+    background-size: contain;
+}
+#Iss2 {
+    float: left;
+    width: 25%;
+    background-image: url(https://simpleorganiclife-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F5521033%2F980x.jpg/2000,2000/7m%2Bq0pSgCD4xEJJb/img.jpg);
+    background-size: 300px 200px;
+    background-repeat: no-repeat;
+}
+#Iss3 {
+    float: right;
+    width: 25%;
+    background-image: url(http://vignette3.wikia.nocookie.net/ronaldmcdonald/images/4/41/Hamburglar_%26_tray_of_Cheeseburgers.jpg/revision/latest?cb=20150522025039);
+    background-size: 300px 200px;
+    background-repeat: no-repeat;
+
+}
+#Iss4 {
+    float: right;
+    width: 25%;
+    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/b9/76/e3/b976e37135fa5c0ba7db753c5b3c8caf.jpg);
+    background-size: contain;
+}
+#Iss5 {
+    float: left;
+    width: 25%;
+    background-image: url(http://cdn1.collective-evolution.com/assets/uploads/2016/07/walter-white-money.jpg);
+    background-size: contain;
+}
+#Iss6 {
+    float: left;
+    width: 25%;
+    background-image: url(https://i2.wp.com/verdict.justia.com/wp-content/uploads/2016/05/shutterstock_342412526.jpg?quality=100&resize=1200%2C440&strip=all&fit=1000%25&ssl=1);
+    background-size: 300px 200px;
+}
+#Iss7 {
+    float: right;
+    width: 25%;
+    background-image: url(https://c2.staticflickr.com/4/3009/2349235973_e8ce7a571e_b.jpg);
+    background-size: 300px 200px;
+    background-repeat: no-repeat;
+}
+#Iss8 {
+    float: right;
+    width: 25%;
+    background-image: url(http://static2.businessinsider.com/image/562bb971bd86ef135c8b96d3-1190-625/mcdonalds-hamburger-university-can-be-harder-to-get-into-than-harvard-and-is-even-cooler-than-youd-imagine.jpg);
+    background-size: 300px 200px;
+    background-repeat: no-repeat;
+}
+#Iss9 {
+    float: left;
+    width: 25%;
+    background-image: url(http://www.cargillgroundbeef.com/files/funfact/9.jpg);
+    background-size: contain;
+}
+#Iss10 {
+    float: left;
+    width: 25%;
+    background-image: url(http://pbrnews.com/wp-content/uploads/2015/02/trade.jpg);
+    background-size: contain;
+}
+#Iss11 {
+    float: right;
+    width: 25%;
+    background-image: url(https://cdn.theatlantic.com/assets/media/img/mt/2016/08/McRib/lead_960.jpg?1470337410);
+    background-size: 300px 200px;
+}
+#Iss12 {
+    float: right;
+    width: 25%;
+    background-image: url(http://cdn.bgr.com/2015/10/mcdonalds-breakfast.jpg?quality=98&strip=all);
+    background-size: 300px 200px;
 }

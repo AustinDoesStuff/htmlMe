@@ -160,5 +160,25 @@ body {
     text-align: left;
     padding-left: 28%;
     color: #670d6b;
+    font-family: sans-serif;
 
+}
+.aboutGrimace{
+    padding-top: 100px;
+}
+
+#aboutHeader{
+    text-align: center;
+    font-family: helvetica;
+    color: #af000e;
+}
+#about{
+    display: block;
+    padding-top: -20px;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: left;
+    max-width: 800px;
+    font-size: 18px;
+    font-family: sans-serif;
 }

@@ -13,14 +13,13 @@ body {
     background-color: #d3d3d3;
     font-family: sans-serif;
     font-size: 24px;
-
 }
 .navBar li {
     float: left;
 }
 .navBar a {
     text-decoration: none;
-    color: #087ED7;
+    color: #670d6b;
     display: block;
     padding: 8px;
     background-color: #d3d3d3;
@@ -130,4 +129,36 @@ body {
     width: 25%;
     background-image: url(http://cdn.bgr.com/2015/10/mcdonalds-breakfast.jpg?quality=98&strip=all);
     background-size: 300px 200px;
+}
+.fliers {
+    padding-top: 750px
+}
+#help {
+    text-align: center;
+    font-family: helvetica;
+    color: #af000e;
+}
+#helpCampaign {
+    width: 100%;
+}
+#helpCampaign a{
+    text-decoration: none;
+    color: #670d6b;
+    font-weight: bold;
+}
+#helpCampaign p{
+    display: block;
+    padding-top: -20px;
+    padding-left: 30%;
+    text-align: left;
+    max-width: 400px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+#helpCampaign h2{
+    /*padding-left: 30%;*/
+    text-align: left;
+    padding-left: 28%;
+    color: #670d6b;
+
 }

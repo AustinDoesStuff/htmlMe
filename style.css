@@ -182,3 +182,74 @@ body {
     font-size: 18px;
     font-family: sans-serif;
 }
+.playSafe {
+    padding-top: 150px;
+}
+#playParagraph {
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: left;
+    max-width: 800px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+#playHeader{
+    text-align: center;
+    font-family: helvetica;
+    color: #af000e;
+}
+#playParagraph a{
+    text-decoration: none;
+    text-decoration: none;
+    color: #670d6b;
+    font-weight: bold;
+}
+.mcNug {
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+#mcNugHeader{
+    text-align: center;
+    font-family: helvetica;
+    color: #af000e;
+}
+#mcNugParagraph{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: left;
+    max-width: 800px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.uniToys{
+    padding-bottom: 150px;
+}
+#uniHeader{
+    text-align: center;
+    font-family: helvetica;
+    color: #af000e;
+}
+#uniParagraph{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: left;
+    max-width: 800px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.hammy{
+    padding-bottom: 150px;
+}
+#hamHeader{
+    text-align: center;
+    font-family: helvetica;
+    color: #af000e;
+}
+#hamParagraph{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: left;
+    max-width: 800px;
+    font-size: 18px;
+    font-family: sans-serif;
+}

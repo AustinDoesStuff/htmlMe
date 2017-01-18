@@ -6,6 +6,7 @@ body {
     position: fixed;
     top: 0;
     width: 100%;
+    min-width: 800px;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -373,7 +374,7 @@ body {
     font-family: sans-serif;
 }
 .rib{
-    padding-bottom: 500px;
+    padding-bottom: 400px;
 }
 #mrHeader{
     text-align: center;
@@ -387,4 +388,9 @@ body {
     max-width: 800px;
     font-size: 18px;
     font-family: sans-serif;
+}
+.footer {
+    text-align: center;
+    font-size: 16px;
+    color: #828282;
 }

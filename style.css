@@ -27,6 +27,8 @@ body {
 
 .frontPageGrimaceGrid {
     font-family: sans-serif;
+    max-width: 1200px;
+    min-width: 800px;
     font-size: 20px;
     margin: auto;
     display: inline-grid;
@@ -246,6 +248,139 @@ body {
     color: #af000e;
 }
 #hamParagraph{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: left;
+    max-width: 800px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.money{
+    padding-bottom: 150px;
+}
+#wagesHeader{
+    text-align: center;
+    font-family: helvetica;
+    color: #af000e;
+}
+#wageParagraph{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: left;
+    max-width: 800px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+#wageParagraph a{
+    text-decoration: none;
+    color: #670d6b;
+    font-weight: bold;
+}
+.ppSep{
+    padding-bottom: 150px;
+}
+#ppsHeader{
+    text-align: center;
+    font-family: helvetica;
+    color: #af000e;
+}
+#ppsParagraph{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: left;
+    max-width: 800px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.hamU{
+    padding-bottom: 150px;
+}
+#hamUHeader{
+    text-align: center;
+    font-family: helvetica;
+    color: #af000e;
+}
+#hamUParagraph{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: left;
+    max-width: 800px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.service{
+    padding-bottom: 150px;
+}
+#srHeader{
+    text-align: center;
+    font-family: helvetica;
+    color: #af000e;
+}
+#srParagraph{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: left;
+    max-width: 800px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.freshOrFroz{
+    padding-bottom: 150px;
+}
+#ffHeader{
+    text-align: center;
+    font-family: helvetica;
+    color: #af000e;
+}
+#ffParagraph{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: left;
+    max-width: 800px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.tp{
+    padding-bottom: 150px;
+}
+#tpHeader{
+    text-align: center;
+    font-family: helvetica;
+    color: #af000e;
+}
+#tpParagraph{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: left;
+    max-width: 800px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.bFast{
+    padding-bottom: 150px;
+}
+#bfHeader{
+    text-align: center;
+    font-family: helvetica;
+    color: #af000e;
+}
+#bfParagraph{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: left;
+    max-width: 800px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.rib{
+    padding-bottom: 500px;
+}
+#mrHeader{
+    text-align: center;
+    font-family: helvetica;
+    color: #af000e;
+}
+#mrParagraph{
     padding-left: 20%;
     padding-right: 20%;
     text-align: left;

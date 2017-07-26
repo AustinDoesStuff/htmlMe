@@ -46,7 +46,7 @@ body {
 .frontPageGrimaceGrid a:hover{
     transition: .3s ease-in-out;
     /*-webkit-transition: 200ms;*/
-    font-size: 22px;
+    font-size: 20px;
     font-weight: bold;
     background-image:linear-gradient(
             rgba(0, 0, 0, 0.75),
